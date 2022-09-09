@@ -1,5 +1,5 @@
 ---
-title: merhaba!
+title: welcome!
 ---
 
 
@@ -7,17 +7,16 @@ title: merhaba!
 
 I attempt to cook up stuff using random APIs /  SDKs.
 
-***This is where I document- the thrill :surfing_woman:***
+***This is where I document- the thrill 🏄‍♀️ ***
 
 
 ## What to expect:
 
-- discomfort :sunglasses:
-- rabbit holes :eyes:
-- emojis :upside_down_face:
-- disregard for capital letters :-1:
-:thumbsdown:
-- spaghetti code :chopsticks::spaghetti:
+- vivid discomfort 😎
+- rabbit holes 👀
+- emojis 🙃
+- disregard for capital letters 👎
+- spaghetti code 🥢 🍝
 
 
-## Let's rock! :rocket:
+## Let's rock! 🚀
