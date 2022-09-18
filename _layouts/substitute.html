@@ -1,9 +1,0 @@
-{% comment %}
-<!-- This is the code block to define custom syntax -->
-{% endcomment %}
-{% assign output = content
-    | replace: '-!', '<u>'
-    | replace: '!-', '</u>'
-%}
-
-{{output}}
