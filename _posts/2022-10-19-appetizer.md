@@ -75,7 +75,11 @@ the pdf file showed up empty and i had no idea why, until when, ofcourse, i head
 
 ![Web capture_29-9-2022_3437_opensource adobe com](https://user-images.githubusercontent.com/67290908/196582947-73591f4b-aa86-4247-8cf4-4552c5ff6f3b.jpeg)
 
-🧷 i was missing some `js-code` in the `source-html`. the `js-code` star-boi `data-to-merge` would show up in the empty fields @ `source-html`  _i.e populate._
+🧷 i was missing some `js-code` in the `source-html`. 
+
+🧷 with the `js-code`, star-boi `data-to-merge` will show up in the empty fields @ `source-html`  
+
+🧷 _i.e populate._
 
 🧷 sample files came in handy 👇
 
@@ -92,11 +96,11 @@ the pdf file showed up empty and i had no idea why, until when, ofcourse, i head
       }
     </script>
   ```
-  _(i still have no idea how this works👉 `<script src="./json.js"></script>`)_
+  _(i still have no idea how this works `<script src="./json.js"></script>`)_
   
   ***
   
-## guess who showed up again? 👉 `problem` 👇
+## guess who showed up again? `problem` 👇
   
   ![Web capture_19-10-2022_34113_downloads](https://user-images.githubusercontent.com/67290908/196586019-8efdf61b-0e74-412c-bd1b-b2d032899ff7.jpeg)
   
