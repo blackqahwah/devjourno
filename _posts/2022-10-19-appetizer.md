@@ -13,9 +13,13 @@ date: 2022-10-19
 >  
 >  _**sir james dyson**_
 
+***
+
 # who wuda thunk?
 
 _unfamilar terrain wicked, but me wickeda dan_
+
+***
 
 after countless _(mindless)_ installations of "node" and enough
 insight to find node modules 🤝 thor's hammer jokes relatable, i finally had to understand what [node-modules] are.
@@ -26,15 +30,14 @@ insight to find node modules 🤝 thor's hammer jokes relatable, i finally had t
 
 ![Web capture_19-10-2022_3550_downloads](https://user-images.githubusercontent.com/67290908/196587659-e3595061-13aa-457e-b147-d1ee991c077c.jpeg)
 
-
-# 
+***
 
 ## ..one episode of over-excitement later
 did a bit of snooping on repos owned by internet strangers and this guy 👉 `express` won't stop showing up.
 
 🧷 thankfully, [MDN](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs/Introduction) pulled up- rather expressive.
 
-# 
+***
 
 this guy too 👉 `app.use()` sort of had me stumbling.
 
@@ -42,11 +45,11 @@ this guy too 👉 `app.use()` sort of had me stumbling.
 
 ![Web capture_29-9-2022_1155_expressjs com](https://user-images.githubusercontent.com/67290908/196576558-6387e652-ea5b-41a9-8d54-ff33b11898c9.jpeg)
 
-# 
+***
 
 🧷 Fell into a rabbit hole about [ports](https://computer.howstuffworks.com/web-server8.html).
 
-# 
+***
 
 ## ...aaand thus began me woes
 
@@ -59,7 +62,7 @@ one question... _why? why me?_
 🧷 well, imagine how elated i was when after hours of brute-applying all shades of solutions, it finally [clicked.](https://www.digitalocean.com/community/tutorials/how-to-work-with-zip-files-in-node-js#step-1-setting-up-the-project)
 pardon me for ever speaking so flippantly about node-modules.
 
-# 
+***
 
 ## fr fr i thought i was done
 now, imagine how my face dropped, when i encountered yet another.. _woe_ 
@@ -90,7 +93,7 @@ the pdf file showed up empty and i had no idea why, until when, ofcourse, i head
   ```
   _(i still have no idea how this works👉 `<script src="./json.js"></script>`)_
   
-  # 
+  ***
   
   ## guess who showed up again? 👉 `problem` 👇
   
@@ -101,7 +104,7 @@ the pdf file showed up empty and i had no idea why, until when, ofcourse, i head
 
   ..where did i go wrong?
   
-  # 
+  ***
   
   🧷 all it took was a formal request 👇
   
@@ -123,12 +126,13 @@ believe me, i went on another [bout](https://twitter.com/Rahmatuhu/status/158219
 
 ![Web capture_19-10-2022_35918_replit com](https://user-images.githubusercontent.com/67290908/196588251-afa1da99-46ce-406e-8283-6af9e4d5fdca.jpeg)
 
-# 
+***
 
 ## whew!
 
 now that we've made it "work", let's put it to work.
-# 
+
+***
 
 thank you for reading 🚀
 
