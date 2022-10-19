@@ -28,7 +28,8 @@ insight to find node modules 🤝 thor's hammer jokes relatable, i finally had t
 
 🧷 these kind sires for instance 👇
 
-![Web capture_19-10-2022_3550_downloads](https://user-images.githubusercontent.com/67290908/196587659-e3595061-13aa-457e-b147-d1ee991c077c.jpeg)
+
+![Web capture_19-10-2022_35418_replit com](https://user-images.githubusercontent.com/67290908/196591069-3ae1b32a-2b16-49b3-9353-c78e02d2b660.jpeg)
 
 ***
 
@@ -95,7 +96,7 @@ the pdf file showed up empty and i had no idea why, until when, ofcourse, i head
   
   ***
   
-  ## guess who showed up again? 👉 `problem` 👇
+## guess who showed up again? 👉 `problem` 👇
   
   ![Web capture_19-10-2022_34113_downloads](https://user-images.githubusercontent.com/67290908/196586019-8efdf61b-0e74-412c-bd1b-b2d032899ff7.jpeg)
   
